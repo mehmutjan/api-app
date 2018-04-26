@@ -1,0 +1,10 @@
+resources:
+    App\Entity\User:
+#        itemOperations:
+#            get: ~
+#            special:
+#                method: 'GET'
+#                path: '/users/{id}/special'
+#                controller: 'App\Controller\Web\DefaultController'
+#                defaults:
+#                    _api_receive: false
